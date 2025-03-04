@@ -23,8 +23,7 @@ function App() {
       "7": "https://pm1.aminoapps.com/6168/6201034bae0783810a78a3bb1e19dde44176ae49_00.jpg",
       "8": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrKK7OipSyvEogR4AhxGmSxFeCKLH9CCz5ow&s",
       "9": "https://lumiere-a.akamaihd.net/v1/images/image_606ff7f7.jpeg?region=352%2C0%2C1170%2C878",
-      //se que Obi-Wan Kenobi no esta cuadrando con la pagina pero NO ME IMPORTA! I NEED THIS IMG.
-      "10": "https://www.disfracessimon.com/cdn/shop/files/30056.jpg?v=1721828535",
+      "10": "https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2017/08/254335-disney-confirma-que-habra-pelicula-obi-wan-kenobi.jpg?tf=3840x",
     },
     vehicles: {
       "4": "https://www.brickfanatics.com/wp-content/uploads/LEGO-Star-wars-sandcrawler-moc-2.jpg",
